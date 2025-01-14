@@ -2,6 +2,9 @@
 #### Author: Dmitry V.Shelepnev
 #### Version 0.5-devel
 
+MYSQL не пашет проблемы с 4битным UTF8
+
+
 [Инструкция на русском языке: README_RUS.md](README_RUS.md)
 
 #### 1. Simple installation of SimpleOPDS (by using sqlite3 database)
