@@ -92,7 +92,7 @@ DATABASES = {
         'NAME': 'sopds',
         'HOST': 'localhost',
         'USER': 'root',
-        'PASSWORD' : '57928',
+        'PASSWORD' : 'sopds',
         'OPTIONS' : {
                 'init_command': """SET default_storage_engine=INNODB; \
                        SET sql_mode='STRICT_TRANS_TABLES'; \
