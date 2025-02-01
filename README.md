@@ -7,6 +7,12 @@ Mysql работает
 не пользуйтесь python3 -m pip install -r requirements.txt
 втыкайте из репозиториев системы 
 
+mysql -uroot -proot_pass mysql
+mysql> create database if not exists sopds default charset = utf8mb4;
+mysql> grant all on sopds. * to 'sopds' @ 'localhost' identified by 'sopds';
+mysql> commit;
+mysql> ^ C
+
 правлю то что всплывает.... понемногу
 
 [Инструкция на русском языке: README_RUS.md](README_RUS.md)
