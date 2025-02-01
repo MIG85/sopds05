@@ -2,7 +2,8 @@
 #### Author: Dmitry V.Shelepnev
 #### Version 0.5-devel
 
-MYSQL не пашет проблемы с 4битным UTF8
+Работает на python3.12 и Django 4.2.11
+Mysql работает
 
 правлю то что всплывает.... понемногу
 
